@@ -1,3 +1,6 @@
+<h1>I do not own laradock, it's just a fork from official repo</h1>
+<p align="center">A purpose of this repository - is to store my custorm laradock (env) config</p>
+
 <p align="center">
     <img src="/.github/home-page-images/laradock-logo.jpg?raw=true" alt="Laradock Logo"/>
 </p>
